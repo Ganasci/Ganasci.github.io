@@ -1,9 +1,9 @@
-<html>
+Ôªø<html>
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9"/>
-		<title>T5-RepositÛrio de Filmes (XMLDOM)</title>
+		<title>T5-Reposit√≥rio de Filmes (XMLDOM)</title>
 		<style type="text/css">
-			<!--formataÁ„o css para os elementos da pagina -->
+			<!--formata√ß√£o css para os elementos da pagina -->
 			body{text-align:center}
 			h3{font-size:20px; color:#FFB90F; font-family:verdana;}
 			h4{font-size:16px; color:#006400; font-family:verdana;}
@@ -35,14 +35,14 @@
 		});
 		</script>
 		<script type="text/javascript">
-			<!--definiÁ„o de variaveis -->
+			<!--defini√ß√£o de variaveis -->
 			var oax= new ActiveXObject("Microsoft.XMLDOM");
 			var no_filmes, listafilmes, numfilmes;
 			oax.async=false; oax.load("filmes.xml");
 			no_filmes=oax.documentElement;
 			listafilmes=no_filmes.childNodes;
 			numfilmes=listafilmes.length;
-			<!--funÁ„o que vai alterar o conteudo perante a interacÁ„o com os butıes e caixa de texto -->
+			<!--fun√ß√£o que vai alterar o conteudo perante a interac√ß√£o com os but√µes e caixa de texto -->
 			function mostrafilme(incr){
 				var nfilme=parseInt(f1.nrfilme.value, 10) + incr, aux="";
 				if(nfilme<1) nfilme=numfilmes; if(nfilme>numfilmes) nfilme=1;
@@ -60,18 +60,18 @@
 				}
 				aux+="</p>"
 				texto.innerHTML+=aux + "</center><a href='" + listafilmes[nfilme-1].childNodes[9].attributes[0].text + "' target=_blank>IMDB</a><br /><a href='" + listafilmes[nfilme-1].childNodes[9].attributes[1].text + "' target=_blank>Site Oficial</a>";
-				video.innerHTML='<h4>Trailer de ' + listafilmes[nfilme-1].childNodes[0].text + ':</h4><iframe width="500" height="300" src="http://www.youtube.com/embed/' + listafilmes[nfilme-1].childNodes[10].attributes[0].text + '?rel=0" frameborder="0" allowfullscreen></iframe><h4>Coment·rio de "' + listafilmes[nfilme-1].childNodes[11].attributes[0].text + '":</h4><h5>"' + listafilmes[nfilme-1].childNodes[11].attributes[1].text + '"</h5>';
+				video.innerHTML='<h4>Trailer de ' + listafilmes[nfilme-1].childNodes[0].text + ':</h4><iframe width="500" height="300" src="http://www.youtube.com/embed/' + listafilmes[nfilme-1].childNodes[10].attributes[0].text + '?rel=0" frameborder="0" allowfullscreen></iframe><h4>Coment√°rio de "' + listafilmes[nfilme-1].childNodes[11].attributes[0].text + '":</h4><h5>"' + listafilmes[nfilme-1].childNodes[11].attributes[1].text + '"</h5>';
 				f1.selfilme.selectedIndex=nfilme-1;
 			}
-			<!--funÁ„o que inicia o "aspecto" da pagina -->
+			<!--fun√ß√£o que inicia o "aspecto" da pagina -->
 			function inicio(){
 				var i= 1;
-				document.write('<div class="titulogeral"><h1>RepositÛrio de Filmes:</h1></div><div id="tabela"><table><tr><td id="ctrls"><form id ="f1"><input id="nrfilme" type="text" size="1" value="1" /><input type="button" value="escolher" onClick="mostrafilme(0)" /><input type="button" value="<<" onClick="mostrafilme(-1)" /><input type="button" value=">>" onClick="mostrafilme(+1)" /><br/><select id="selfilme" onChange="selectfilme()">');
+				document.write('<div class="titulogeral"><h1>Reposit√≥rio de Filmes:</h1></div><div id="tabela"><table><tr><td id="ctrls"><form id ="f1"><input id="nrfilme" type="text" size="1" value="1" /><input type="button" value="escolher" onClick="mostrafilme(0)" /><input type="button" value="<<" onClick="mostrafilme(-1)" /><input type="button" value=">>" onClick="mostrafilme(+1)" /><br/><select id="selfilme" onChange="selectfilme()">');
 				for(i=0; i<numfilmes; i++)
 				document.write('<option>' + listafilmes[i].childNodes[0].text + '</option>');
 				document.write('</select></form></td><td id="texto" rowspan="2"></td><td id="video" rowspan="2"></td><td id="aba" rowspan="2"><div class="e"><h1>E<br />X<br />T<br />R<br />A<br />S</div></h1></td></tr><tr><td id="ecran"><img id="imagCapa" src="imagens/capa01.jpg" width="300" /></td></tr></table></div>');
 			}
-			<!--funÁ„o que actualiza a pagina consoante os valores da select box -->
+			<!--fun√ß√£o que actualiza a pagina consoante os valores da select box -->
 			function selectfilme(){
 				f1.nrfilme.value=f1.selfilme.selectedIndex+1; mostrafilme(0);
 			}
@@ -79,7 +79,7 @@
 	</head>
 	<body>
 		<script type="text/javascript">
-		<!--Corre a funÁ„o para iniciar o "aspecto" da pagina e mostra o filme que se encontra no valor "0"-->
+		<!--Corre a fun√ß√£o para iniciar o "aspecto" da pagina e mostra o filme que se encontra no valor "0"-->
 		inicio(); mostrafilme(0);
 		</script>
 	</body>
