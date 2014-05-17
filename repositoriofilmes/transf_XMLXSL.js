@@ -1,4 +1,4 @@
-function transformar(fxml, fxsl){
+﻿function transformar(fxml, fxsl){
 	var oax_xml, oax_xsl;
 	oax_xml=new ActiveXObject("Microsoft.XMLDOM");
 	oax_xsl=new ActiveXObject("Microsoft.XMLDOM");

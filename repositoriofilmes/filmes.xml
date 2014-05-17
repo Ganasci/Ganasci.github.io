@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+ï»¿<?xml version="1.0" encoding="ISO-8859-1"?>
 <filmes>
 
 	<filme>
 		<titulo>Scott Pilgrim vs. the World</titulo>
 		<director>Edgar Wright</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Comedia</genero>
 			<genero>Fantasia</genero>
 		</conteudo>
 		<escritor>Michael Bacall</escritor>
-		<texto>Scott Pilgrim tem de derrotar os sete ex-namorados da sua nova namorada para ganhar o seu coração.</texto>
+		<texto>Scott Pilgrim tem de derrotar os sete ex-namorados da sua nova namorada para ganhar o seu coraÃ§Ã£o.</texto>
 		<elenco>
 			<actor personagem="Scott Pilgrim">Michael Cera</actor>
 			<actor personagem="Kim Pine">Alison Pill</actor>
@@ -34,12 +34,12 @@
 		<titulo>Inception</titulo>
 		<director>Christopher Nolan</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Misterio</genero>
-			<genero>Ficção Cientifica</genero>
+			<genero>FicÃ§Ã£o Cientifica</genero>
 		</conteudo>
 		<escritor>Christopher Nolan</escritor>
-		<texto>Num mundo onde a tecnologia para entrar na mente humana através de invasão existe, um habilidoso ladrão recebe uma hipotese final de se redimir que envolve a execução do seu trabalho mais complicado até á data: Incepção.</texto>
+		<texto>Num mundo onde a tecnologia para entrar na mente humana atravÃ©s de invasÃ£o existe, um habilidoso ladrÃ£o recebe uma hipotese final de se redimir que envolve a execuÃ§Ã£o do seu trabalho mais complicado atÃ© Ã¡ data: IncepÃ§Ã£o.</texto>
 		<elenco>
 			<actor personagem="Cobb">Leonardo DiCaprio</actor>
 			<actor personagem="Arthur">Joseph Gordon-Levitt</actor>
@@ -63,12 +63,12 @@
 		<titulo>The Dark Knight</titulo>
 		<director>Christopher Nolan</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Crime</genero>
 			<genero>Drama</genero>
 		</conteudo>
 		<escritor>Jonathan Nolan</escritor>
-		<texto>Batman, Gordon e Harvey Dent são forçados a lidar com o caos dispersado pelo anarquista conhecido somente por Joker enquanto este leva cada um deles aos seus limites.</texto>
+		<texto>Batman, Gordon e Harvey Dent sÃ£o forÃ§ados a lidar com o caos dispersado pelo anarquista conhecido somente por Joker enquanto este leva cada um deles aos seus limites.</texto>
 		<elenco>
 			<actor personagem="Bruce Wayne / Batman">Christian Bale</actor>
 			<actor personagem="Joker">Heath Ledger</actor>
@@ -98,7 +98,7 @@
 			<genero>Historia</genero>
 		</conteudo>
 		<escritor>Steven Zaillian</escritor>
-		<texto>Na Polonia durante a segunda grande guerra mundial, Oskar Schindler gradualmente se torna preocupado pelos seus trabalhadores judeus depois de presenciar a perseguição destes pelos nazis.</texto>
+		<texto>Na Polonia durante a segunda grande guerra mundial, Oskar Schindler gradualmente se torna preocupado pelos seus trabalhadores judeus depois de presenciar a perseguiÃ§Ã£o destes pelos nazis.</texto>
 		<elenco>
 			<actor personagem="Oskar Schindler">Liam Neeson</actor>
 			<actor personagem="Itzhak Stern">Ben Kingsley</actor>
@@ -127,7 +127,7 @@
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>Chuck Palahniuk</escritor>
-		<texto>Um empregado de escritório e um vendedor de sabão constroem uma organização global para ajudar a desabafar a agressão masculina.</texto>
+		<texto>Um empregado de escritÃ³rio e um vendedor de sabÃ£o constroem uma organizaÃ§Ã£o global para ajudar a desabafar a agressÃ£o masculina.</texto>
 		<elenco>
 			<actor personagem="The Narrator">Edward Norton</actor>
 			<actor personagem="Tyler Durden">Brad Pitt</actor>
@@ -151,9 +151,9 @@
 		<titulo>The Matrix</titulo>
 		<director>Wachowski Brothers</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Aventura</genero>
-			<genero>Ficção Cientifica</genero>
+			<genero>FicÃ§Ã£o Cientifica</genero>
 		</conteudo>
 		<escritor>Wachowski Brothers</escritor>
 		<texto>Um hackeador de computadores aprende de rebeldes misteriosos sobre a verdadeira natureza da sua realidade e o seu papel na guerra contra os seus controladores.</texto>
@@ -185,7 +185,7 @@
 			<genero>Misterio</genero>
 		</conteudo>
 		<escritor>Andrew Kevin Walker</escritor>
-		<texto>Dois detectives, um principiante e um veterano, procuram um assassino em serie que usa os sete pecados mortais como o seu modo de operação.</texto>
+		<texto>Dois detectives, um principiante e um veterano, procuram um assassino em serie que usa os sete pecados mortais como o seu modo de operaÃ§Ã£o.</texto>
 		<elenco>
 			<actor personagem="Detective David Mills">Brad Pitt</actor>
 			<actor personagem="Detective Lt. William Somerset">Morgan Freeman</actor>
@@ -209,12 +209,12 @@
 		<titulo>Terminator 2: Judgment Day</titulo>
 		<director>James Cameron</director>
 		<conteudo>
-			<genero>Acção</genero>
-			<genero>Ficção Cientifica</genero>
+			<genero>AcÃ§Ã£o</genero>
+			<genero>FicÃ§Ã£o Cientifica</genero>
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>William Wisher Jr.</escritor>
-		<texto>O ciborgue que uma vez tentou matar Sarah Connor tem agora de proteger o seu filho adolescente, John Connor, de um exterminador ainda mais poderoso e avançado.</texto>
+		<texto>O ciborgue que uma vez tentou matar Sarah Connor tem agora de proteger o seu filho adolescente, John Connor, de um exterminador ainda mais poderoso e avanÃ§ado.</texto>
 		<elenco>
 			<actor personagem="The Terminator">Arnold Schwarzenegger</actor>
 			<actor personagem="Sarah Connor">Linda Hamilton</actor>
@@ -239,10 +239,10 @@
 		<director>Ridley Scott</director>
 		<conteudo>
 			<genero>Horror</genero>
-			<genero>Ficção Cientifica</genero>
+			<genero>FicÃ§Ã£o Cientifica</genero>
 		</conteudo>
 		<escritor>Dan O'Bannon</escritor>
-		<texto>Uma nave mineira, que investiga um suspeito sinal de ajuda, aterra num planeta distante. A tripulação descobre criaturas estranhas e decide investigar.</texto>
+		<texto>Uma nave mineira, que investiga um suspeito sinal de ajuda, aterra num planeta distante. A tripulaÃ§Ã£o descobre criaturas estranhas e decide investigar.</texto>
 		<elenco>
 			<actor personagem="Dallas">Tom Skerritt</actor>
 			<actor personagem="Ripley">Sigourney Weaver</actor>
@@ -266,22 +266,22 @@
 		<titulo>Spirited Away</titulo>
 		<director>Hayao Miyazaki</director>
 		<conteudo>
-			<genero>Animação</genero>
+			<genero>AnimaÃ§Ã£o</genero>
 			<genero>Aventura</genero>
 			<genero>Familia</genero>
 		</conteudo>
 		<escritor>Hayao Miyazaki</escritor>
-		<texto>No meio da deslocação da sua familia para os suburbios, uma rapariga de 10 anos e poucos amigos entra num mundo governado por deuses, bruxas e monstros onde os humanos são transformados em animais.</texto>
+		<texto>No meio da deslocaÃ§Ã£o da sua familia para os suburbios, uma rapariga de 10 anos e poucos amigos entra num mundo governado por deuses, bruxas e monstros onde os humanos sÃ£o transformados em animais.</texto>
 		<elenco>
 			<actor personagem="Chihiro (voz)">Daveigh Chase</actor>
 			<actor personagem="Yubaba / Zeniba (voz)">Suzanne Pleshette</actor>
 			<actor personagem="Haku (voz)">Jason Marsden</actor>
 			<actor personagem="Lin (voz)">Susan Egan</actor>
 			<actor personagem="Kamajii (voz)">David Ogden Stiers</actor>
-			<actor personagem="Mãe de Chihiro (voz)">Lauren Holly</actor>
+			<actor personagem="MÃ£e de Chihiro (voz)">Lauren Holly</actor>
 			<actor personagem="Pai de Chihiro (voz)">Michael Chiklis</actor>
 			<actor personagem="Assistente de Gerencia (voz)">John Ratzenberger</actor>
-			<actor personagem="Bôh (voz)">Tara Strong</actor>
+			<actor personagem="BÃ´h (voz)">Tara Strong</actor>
 		</elenco>
 		<musica>Joe Hisaishi</musica>
 		<ano>2001</ano>
@@ -292,7 +292,7 @@
 	</filme>
 
 	<filme>
-		<titulo>La vita è bella</titulo>
+		<titulo>La vita Ã¨ bella</titulo>
 		<director>Roberto Benigni</director>
 		<conteudo>
 			<genero>Drama</genero>
@@ -304,10 +304,10 @@
 		<elenco>
 			<actor personagem="Guido Orefice">Roberto Benigni</actor>
 			<actor personagem="Dora">Nicoletta Braschi</actor>
-			<actor personagem="Giosué Orefice">Giorgio Cantarini</actor>
+			<actor personagem="GiosuÃ© Orefice">Giorgio Cantarini</actor>
 			<actor personagem="Eliseo Orefice">Giustino Durano</actor>
 			<actor personagem="Ferruccio Papini">Sergio Bini Bustric</actor>
-			<actor personagem="Mãe de Dora">Marisa Paredes</actor>
+			<actor personagem="MÃ£e de Dora">Marisa Paredes</actor>
 			<actor personagem="Doctor Lessing">Horst Buchholz</actor>
 			<actor personagem="Guicciardini">Lidia Alfonsi</actor>
 			<actor personagem="School Principal">Giuliana Lojodice</actor>
@@ -326,7 +326,7 @@
 		<conteudo>
 			<genero>Aventura</genero>
 			<genero>Familia</genero>
-			<genero>Ficção Cientifica</genero>
+			<genero>FicÃ§Ã£o Cientifica</genero>
 		</conteudo>
 		<escritor>Bob Gale</escritor>
 		<texto>Em 1985, o Doutor Brown inventa a viagem pelo tempo. Em 1955, Marty McFly acidentalmente interrompe os seus pais de se encontrarem, pondo a sua propria existencia em risco.</texto>
@@ -353,12 +353,12 @@
 		<titulo>Braveheart</titulo>
 		<director>Mel Gibson</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Biografia</genero>
 			<genero>Drama</genero>
 		</conteudo>
 		<escritor>Randall Wallace</escritor>
-		<texto>William Wallace, um plebeu, une os escoceses do decimo terceiro seculo na batalha destes para destronar o governo Inglês.</texto>
+		<texto>William Wallace, um plebeu, une os escoceses do decimo terceiro seculo na batalha destes para destronar o governo InglÃªs.</texto>
 		<elenco>
 			<actor personagem="Young William Wallace">James Robinson </actor>
 			<actor personagem="Malcolm Wallace">Sean Lawlor </actor>
@@ -382,22 +382,22 @@
 		<titulo>Princess Mononoke</titulo>
 		<director>Hayao Miyazaki</director>
 		<conteudo>
-			<genero>Animação</genero>
+			<genero>AnimaÃ§Ã£o</genero>
 			<genero>Aventura</genero>
 			<genero>Fantasia</genero>
 		</conteudo>
 		<escritor>Hayao Miyazaki</escritor>
-		<texto>Numa jornada para encontrar a cura para uma maldição "Tatarigami", Ashitaka encontra-se no meio de uma guerra entre os deuses da floresta e Tatara, uma colonia de mineiros. Na sua missão, ele também se encontra com San, a Princesa Mononoke.</texto>
+		<texto>Numa jornada para encontrar a cura para uma maldiÃ§Ã£o "Tatarigami", Ashitaka encontra-se no meio de uma guerra entre os deuses da floresta e Tatara, uma colonia de mineiros. Na sua missÃ£o, ele tambÃ©m se encontra com San, a Princesa Mononoke.</texto>
 		<elenco>
-			<actor personagem="Ashitaka (voz)">Yôji Matsuda</actor>
+			<actor personagem="Ashitaka (voz)">YÃ´ji Matsuda</actor>
 			<actor personagem="San (voz)">Yuriko Ishida</actor>
-			<actor personagem="Eboshi-gozen (voz)">Yûko Tanaka</actor>
-			<actor personagem="Jiko-bô (voz)">Kaoru Kobayashi</actor>
+			<actor personagem="Eboshi-gozen (voz)">YÃ»ko Tanaka</actor>
+			<actor personagem="Jiko-bÃ´ (voz)">Kaoru Kobayashi</actor>
 			<actor personagem="Kouroku (voz)">Masahiko Nishimura</actor>
-			<actor personagem="Gonza (voz)">Tsunehiko Kamijô</actor>
+			<actor personagem="Gonza (voz)">Tsunehiko KamijÃ´</actor>
 			<actor personagem="Toki (voz)">Sumi Shimamoto</actor>
 			<actor personagem="Yama-inu (voz)">Tetsu Watanabe</actor>
-			<actor personagem="Tatari-gami (voz)">Mitsuru Satô</actor>
+			<actor personagem="Tatari-gami (voz)">Mitsuru SatÃ´</actor>
 		</elenco>
 		<musica>Joe Hisaishi</musica>
 		<ano>1997</ano>
@@ -411,12 +411,12 @@
 		<titulo>Sin City</titulo>
 		<director>Robert Rodriguez</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Crime</genero>
 			<genero>Drama</genero>
 		</conteudo>
 		<escritor>Frank Miller</escritor>
-		<texto>Um filme que explora a cidade sombria e miseravel, Basin City, e conta a estória de três pessoas diferentes, todas apanhadas em corrupção violenta.</texto>
+		<texto>Um filme que explora a cidade sombria e miseravel, Basin City, e conta a estÃ³ria de trÃªs pessoas diferentes, todas apanhadas em corrupÃ§Ã£o violenta.</texto>
 		<elenco>
 			<actor personagem="Nancy Callahan">Jessica Alba</actor>
 			<actor personagem="Miho">Devon Aoki</actor>
@@ -445,7 +445,7 @@
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>M. Night Shyamalan</escritor>
-		<texto>Um rapaz que comunica com espiritos que não sabem que estão mortos procura ajuda de um destroçado psicologo de crianças.</texto>
+		<texto>Um rapaz que comunica com espiritos que nÃ£o sabem que estÃ£o mortos procura ajuda de um destroÃ§ado psicologo de crianÃ§as.</texto>
 		<elenco>
 			<actor personagem="Dr. Malcolm Crowe">Bruce Willis</actor>
 			<actor personagem="Cole Sear">Haley Joel Osment</actor>
@@ -469,12 +469,12 @@
 		<titulo>Kill Bill: Vol. 1</titulo>
 		<director>Quentin Tarantino</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Crime</genero>
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>Quentin Tarantino</escritor>
-		<texto>A Noiva acorda depois de um longo coma. O bebé que ela carregava antes de entrar em coma desapareceu. A unica coisa na mente dela é ter vingança na equipa de assassinos que a traiu - uma equipa que ela uma vez fazia parte.</texto>
+		<texto>A Noiva acorda depois de um longo coma. O bebÃ© que ela carregava antes de entrar em coma desapareceu. A unica coisa na mente dela Ã© ter vinganÃ§a na equipa de assassinos que a traiu - uma equipa que ela uma vez fazia parte.</texto>
 		<elenco>
 			<actor personagem="The Bride">Uma Thurman</actor>
 			<actor personagem="O-Ren Ishii">Lucy Liu</actor>
@@ -498,12 +498,12 @@
 		<titulo>Kick-Ass</titulo>
 		<director>Matthew Vaughn</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Aventura</genero>
 			<genero>Comedia</genero>
 		</conteudo>
 		<escritor>Jane Goldman</escritor>
-		<texto>Dave Lizewski é um estudante pouco conhecido do liceu e um fã de banda desenhada que um dia decide tornar-se um super heroi, mesmo não tenho poderes, treino ou razão significante para o ser.</texto>
+		<texto>Dave Lizewski Ã© um estudante pouco conhecido do liceu e um fÃ£ de banda desenhada que um dia decide tornar-se um super heroi, mesmo nÃ£o tenho poderes, treino ou razÃ£o significante para o ser.</texto>
 		<elenco>
 			<actor personagem="Dave Lizewski / Kick-Ass">Aaron Johnson</actor>
 			<actor personagem="Mr. Lizewski">Garrett M. Brown</actor>
@@ -532,7 +532,7 @@
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>Oren Peli</escritor>
-		<texto>Depois de se mudarem para uma casa nos suburbios, um casal torna-se cada vez mais perturbado por uma presença demoniaca nocturna.</texto>
+		<texto>Depois de se mudarem para uma casa nos suburbios, um casal torna-se cada vez mais perturbado por uma presenÃ§a demoniaca nocturna.</texto>
 		<elenco>
 			<actor personagem="Katie">Katie Featherston</actor>
 			<actor personagem="Micah">Micah Sloat</actor>
@@ -554,7 +554,7 @@
 		<titulo>Ghost Rider</titulo>
 		<director>Mark Steven Johnson</director>
 		<conteudo>
-			<genero>Acção</genero>
+			<genero>AcÃ§Ã£o</genero>
 			<genero>Fantasia</genero>
 			<genero>Thriller</genero>
 		</conteudo>
@@ -583,21 +583,21 @@
 		<titulo>Summer Wars</titulo>
 		<director>Mamoru Hosoda</director>
 		<conteudo>
-			<genero>Animação</genero>
+			<genero>AnimaÃ§Ã£o</genero>
 			<genero>Aventura</genero>
-			<genero>Comédia</genero>
+			<genero>ComÃ©dia</genero>
 		</conteudo>
 		<escritor>Satoko Okudera</escritor>
-		<texto>Um estudante tenta arranjar um problema que ele acidentalmente causou no OZ, um mundo digital, enquanto finge ser o namorado da sua amiga no nonagesimo aniversario da avó desta.</texto>
+		<texto>Um estudante tenta arranjar um problema que ele acidentalmente causou no OZ, um mundo digital, enquanto finge ser o namorado da sua amiga no nonagesimo aniversario da avÃ³ desta.</texto>
 		<elenco>
-			<actor personagem="Kenji Koiso (voz)">Ryûnosuke Kamiki</actor>
+			<actor personagem="Kenji Koiso (voz)">RyÃ»nosuke Kamiki</actor>
 			<actor personagem="Natsuki Shinohara (voz)">Nanami Sakuraba</actor>
 			<actor personagem="Kazuma Ikezawa (voz)">Mitsuki Tanimura</actor>
 			<actor personagem="Takashi Sakuma (voz)">Takahiro Yokokawa</actor>
-			<actor personagem="Mariko Jin'nôchi (voz)">Mieko Nobusawa</actor>
+			<actor personagem="Mariko Jin'nÃ´chi (voz)">Mieko Nobusawa</actor>
 			<actor personagem="Kazuo Shinohara (voz)">Mutsumi Sasaki</actor>
-			<actor personagem="Tasuke Jin'nôchi (voz)">Takashi Kobayashi</actor>
-			<actor personagem="Yorihiko Jin'nôchi (voz)">Yôji Tanaka</actor>
+			<actor personagem="Tasuke Jin'nÃ´chi (voz)">Takashi Kobayashi</actor>
+			<actor personagem="Yorihiko Jin'nÃ´chi (voz)">YÃ´ji Tanaka</actor>
 			<actor personagem="Yukiko Shinohara (voz)">Kiyomi Tanigawa</actor>
 		</elenco>
 		<musica>Akihiko Matsumoto</musica>
@@ -617,7 +617,7 @@
 			<genero>Fantasia</genero>
 		</conteudo>
 		<escritor>David Stevens</escritor>
-		<texto>O lendário feiticeiro conta a sua historia da sua guerra contra a Rainha Mab do Sidhe e a sua criação de Camelot.</texto>
+		<texto>O lendÃ¡rio feiticeiro conta a sua historia da sua guerra contra a Rainha Mab do Sidhe e a sua criaÃ§Ã£o de Camelot.</texto>
 		<elenco>
 			<actor personagem="Lady of the Lake">Miranda Richardson</actor>
 			<actor personagem="Merlin">Sam Neill</actor>
@@ -641,12 +641,12 @@
 		<titulo>A Ilha</titulo>
 		<director>Michael Bay</director>
 		<conteudo>
-			<genero>Acção</genero>
-			<genero>Ficção cientifica</genero>
+			<genero>AcÃ§Ã£o</genero>
+			<genero>FicÃ§Ã£o cientifica</genero>
 			<genero>Thriller</genero>
 		</conteudo>
 		<escritor>Caspian Tredwell-Owen</escritor>
-		<texto>Um homem tenta escapar depois de descobrir que ele é um "ser de colheita", e é mantido como fonte de partes substituiveis, em conjunto com outros, numa contrucção Utopiana.</texto>
+		<texto>Um homem tenta escapar depois de descobrir que ele Ã© um "ser de colheita", e Ã© mantido como fonte de partes substituiveis, em conjunto com outros, numa contrucÃ§Ã£o Utopiana.</texto>
 		<elenco>
 			<actor personagem="Tom Lincoln">Ewan McGregor</actor>
 			<actor personagem="Sarah Jordan">Scarlett Johansson</actor>

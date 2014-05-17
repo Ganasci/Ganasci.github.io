@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+ï»¿<?xml version="1.0" encoding="ISO-8859-1"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/">
 		<html>
 			<head>
-				<title>T5-Repositório de Filmes (XSL)</title>
+				<title>T5-RepositÃ³rio de Filmes (XSL)</title>
 				<style type="text/css">
-					<!--formatação css para os elementos da pagina -->
+					<!--formataÃ§Ã£o css para os elementos da pagina -->
 					body{text-align:center}
 					#filmes{width:500px; background-color:#BEBEBE;}
 					#menu{font-family:arial; font-size:32px; color:#880000; font-weight:bold;}
@@ -21,11 +21,11 @@
 			<body>
 				<!-- cria o div que contem os restantes elementos -->
 				<div id="filmes">
-				<!--cria o titulo da pagina e a hiperligação que leva dos outros titulos até este -->
-					<a id="menu" name="menu">Repositório de Filmes</a><br />
+				<!--cria o titulo da pagina e a hiperligaÃ§Ã£o que leva dos outros titulos atÃ© este -->
+					<a id="menu" name="menu">RepositÃ³rio de Filmes</a><br />
 					<!--Para cada filme... -->
 					<xsl:for-each select="filmes/filme">
-						<!--mostra o titulo de forma a fazer um menu cujas hiperligações levam á parte do filme -->
+						<!--mostra o titulo de forma a fazer um menu cujas hiperligaÃ§Ãµes levam Ã¡ parte do filme -->
 						<xsl:element name="a">
 							<xsl:attribute name="class">
 								<xsl:value-of select='"link1"' />
@@ -40,7 +40,7 @@
 					<!--Para cada filme... -->
 					<xsl:for-each select="filmes/filme">
 						<hr />
-						<!--Cria um titulo com uma hiperligação para o titulo inicial -->
+						<!--Cria um titulo com uma hiperligaÃ§Ã£o para o titulo inicial -->
 						<xsl:element name="a">
 							<xsl:attribute name="class">
 								<xsl:value-of select='"link2"' />
@@ -60,7 +60,7 @@
 								<xsl:value-of select="concat('imagens/', capa/@imagem)"/>
 							</xsl:attribute>
 						</xsl:element>
-						<!--Cria um conjunto de informação -->
+						<!--Cria um conjunto de informaÃ§Ã£o -->
 						<h4><xsl:value-of select='concat("Director: ", director)' /></h4>
 						<h4><xsl:value-of select='concat("Escritor: ", escritor)' /></h4>
 						<h5>
@@ -76,7 +76,7 @@
 							<p><xsl:value-of select='concat(., " a interpretar ", @personagem)' /></p>
 						</xsl:for-each>
 						<br />
-						<!--Cria hiperligações para paginas web -->
+						<!--Cria hiperligaÃ§Ãµes para paginas web -->
 						<xsl:element name="a">
 							<xsl:attribute name="class">
 								<xsl:value-of select='"link3"' />
