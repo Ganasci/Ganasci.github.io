@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<filmes>
+
+	<filme>
+		<titulo>Scott Pilgrim vs. the World</titulo>
+		<director>Edgar Wright</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Comedia</genero>
+			<genero>Fantasia</genero>
+		</conteudo>
+		<escritor>Michael Bacall</escritor>
+		<texto>Scott Pilgrim tem de derrotar os sete ex-namorados da sua nova namorada para ganhar o seu coração.</texto>
+		<elenco>
+			<actor personagem="Scott Pilgrim">Michael Cera</actor>
+			<actor personagem="Kim Pine">Alison Pill</actor>
+			<actor personagem="Stephen Stills">Mark Webber</actor>
+			<actor personagem="Young Neil">Johnny Simmons</actor>
+			<actor personagem="Knives Chau">Ellen Wong</actor>
+			<actor personagem="Wallace Wells">Kieran Culkin</actor>
+			<actor personagem="Stacey Pilgrim">Anna Kendrick</actor>
+			<actor personagem="Julie Powers">Aubrey Plaza</actor>
+			<actor personagem="Ramona Flowers">Mary Elizabeth Winstead</actor>
+		</elenco>
+		<musica>Nigel Godrich</musica>
+		<ano>2010</ano>
+		<capa imagem="capa01.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0446029/" paginafilme="http://www.scottpilgrimthemovie.com/" />
+		<video youtube="8NUBVcit5VM" />
+		<comentario utilizador="guapog" texto="I am 40 years old and I TRULY enjoyed this movie and it had a clear story line that targeted more than just teenagers. In addition, I saw every age group, race, gender in the screening that I attended which was impressive and we all were jumping and laughing at every scene as if we were all teenagers. "/>
+	</filme>
+
+	<filme>
+		<titulo>Inception</titulo>
+		<director>Christopher Nolan</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Misterio</genero>
+			<genero>Ficção Cientifica</genero>
+		</conteudo>
+		<escritor>Christopher Nolan</escritor>
+		<texto>Num mundo onde a tecnologia para entrar na mente humana através de invasão existe, um habilidoso ladrão recebe uma hipotese final de se redimir que envolve a execução do seu trabalho mais complicado até á data: Incepção.</texto>
+		<elenco>
+			<actor personagem="Cobb">Leonardo DiCaprio</actor>
+			<actor personagem="Arthur">Joseph Gordon-Levitt</actor>
+			<actor personagem="Ariadne">Ellen Page</actor>
+			<actor personagem="Eames">Tom Hardy</actor>
+			<actor personagem="Saito">Ken Watanabe</actor>
+			<actor personagem="Yusuf">Dileep Rao</actor>
+			<actor personagem="Robert Fischer">Cillian Murphy</actor>
+			<actor personagem="Peter Browning">Tom Berenger</actor>
+			<actor personagem="Mal">Marion Cotillard</actor>
+		</elenco>
+		<musica>Hans Zimmer</musica>
+		<ano>2010</ano>
+		<capa imagem="capa02.jpg" />
+		<web imdb="http://www.imdb.com/title/tt1375666/" paginafilme="http://inceptionmovie.warnerbros.com/dvd/" />
+		<video youtube="8hP9D6kZseM" />
+		<comentario utilizador="drakula2005" texto="The only thing one could have against the movie, is the headache one could have.See, most of my friends go to the movies for brainless action, they enjoyed Iron Man 2 and The A-Team, but this movie-you have to see it at least twice, to understand it.The levels and the layers on which thing are happening are so many, that one surely'll miss something vital.This is a reason for not fitting to the mass audience, but i hope that won't happen, because Nolan is one of my favourite directors/writers, and he showed, that the brainless action flicks aren't all of it.There are still movies like Inception out there and still people like the Nolans to make those movies, so it's not all lost.And i hope this movie could show the audience that the story is still important for the experience one could receive, not the endless, constant explosions.Because this is really a one of a lifetime event."/>
+	</filme>
+
+	<filme>
+		<titulo>The Dark Knight</titulo>
+		<director>Christopher Nolan</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Crime</genero>
+			<genero>Drama</genero>
+		</conteudo>
+		<escritor>Jonathan Nolan</escritor>
+		<texto>Batman, Gordon e Harvey Dent são forçados a lidar com o caos dispersado pelo anarquista conhecido somente por Joker enquanto este leva cada um deles aos seus limites.</texto>
+		<elenco>
+			<actor personagem="Bruce Wayne / Batman">Christian Bale</actor>
+			<actor personagem="Joker">Heath Ledger</actor>
+			<actor personagem="Harvey Dent">Aaron Eckhart</actor>
+			<actor personagem="Alfred">Michael Caine</actor>
+			<actor personagem="Rachel">Maggie Gyllenhaal</actor>
+			<actor personagem="Gordon">Gary Oldman</actor>
+			<actor personagem="Lucius Fox">Morgan Freeman</actor>
+			<actor personagem="Ramirez">Monique Gabriela Curnen</actor>
+			<actor personagem="Wuertz">Ron Dean</actor>
+		</elenco>
+		<musica>Hans Zimmer</musica>
+		<ano>2008</ano>
+		<capa imagem="capa03.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0468569/" paginafilme="http://thedarkknight.warnerbros.com/dvdsite/" />
+		<video youtube="yQ5U8suTUw0" />
+		<comentario utilizador="manuel_de_dios" texto="Bale marvels as Bruce Wayne/Batman, Ledger has made The Joker in to an iconic movie villain. His performance belongs there at the top with Hopkins Lecter. The Joker has finally been portrait properly on film, he has earned his place between the big boys in movie villandom. This is the true Joker every Batman fan knows, loves and fears. Ledger deserves any and every movie award known to man for this brilliant display.
+"/>
+	</filme>
+
+	<filme>
+		<titulo>Schindler's List</titulo>
+		<director>Steven Spielberg</director>
+		<conteudo>
+			<genero>Biografia</genero>
+			<genero>Drama</genero>
+			<genero>Historia</genero>
+		</conteudo>
+		<escritor>Steven Zaillian</escritor>
+		<texto>Na Polonia durante a segunda grande guerra mundial, Oskar Schindler gradualmente se torna preocupado pelos seus trabalhadores judeus depois de presenciar a perseguição destes pelos nazis.</texto>
+		<elenco>
+			<actor personagem="Oskar Schindler">Liam Neeson</actor>
+			<actor personagem="Itzhak Stern">Ben Kingsley</actor>
+			<actor personagem="Amon Goeth">Ralph Fiennes</actor>
+			<actor personagem="Emilie Schindler">Caroline Goodall</actor>
+			<actor personagem="Poldek Pfefferberg">Jonathan Sagall</actor>
+			<actor personagem="Helen Hirsch">Embeth Davidtz</actor>
+			<actor personagem="Wiktoria Klonowska">Malgorzata Gebel</actor>
+			<actor personagem="Wilek Chilowicz">Shmuel Levy</actor>
+			<actor personagem="Marcel Goldberg">Mark Ivanir</actor>
+		</elenco>
+		<musica>John Williams</musica>
+		<ano>1993</ano>
+		<capa imagem="capa04.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0108052/" paginafilme="http://www.historyinfilm.com/schnlist/" />
+		<video youtube="dwfIf1WMhgc" />
+		<comentario utilizador="TheQuietStorm" texto="This film is about redemption and was beautifully photographed in black and white by Janusz Kaminski (cinematographer). At the helm is no one other than Steven Spielberg, who brilliantly called non-pretentious shots and brought back to life a time and period most want to forget, but shouldn't. This film is a must see by me. I give the film an 'A+' (wishing I could give it a higher grade than that) and a 10 out of 10... "/>
+	</filme>
+
+	<filme>
+		<titulo>Fight Club</titulo>
+		<director>David Fincher</director>
+		<conteudo>
+			<genero>Drama</genero>
+			<genero>Misterio</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>Chuck Palahniuk</escritor>
+		<texto>Um empregado de escritório e um vendedor de sabão constroem uma organização global para ajudar a desabafar a agressão masculina.</texto>
+		<elenco>
+			<actor personagem="The Narrator">Edward Norton</actor>
+			<actor personagem="Tyler Durden">Brad Pitt</actor>
+			<actor personagem="Marla Singer">Helena Bonham Carter</actor>
+			<actor personagem="Robert 'Bob' Paulson">Meat Loaf</actor>
+			<actor personagem="Richard Chesler">Zach Grenier</actor>
+			<actor personagem="Intern">Richmond Arquette</actor>
+			<actor personagem="Thomas">David Andrews</actor>
+			<actor personagem="Group Leader">George Maguire</actor>
+			<actor personagem="Weeping Woman">Eugenie Bondurant</actor>
+		</elenco>
+		<musica>Dust Brothers</musica>
+		<ano>1999</ano>
+		<capa imagem="capa05.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0137523/" paginafilme="http://www.foxmovies.com/fightclub/" />
+		<video youtube="SUXWAEX2jlg" />
+		<comentario utilizador="(human@alientomato.com)" texto="Fight Club is one of the most unique films I have ever seen. In addition to presenting a rather fresh take on life, FC also presents its material in a fresh way. My main interest in the film is in that, in my opinion, it does not present characters for us to think about. Rather, it presents actions for us to think about. I will say that I cannot recall *ever* having been 'asked' by a film to both suspend my disbelief the way this film asks in its third act AND at the same time come to terms with an understanding that there is no room--or need--for disbelief."/>
+	</filme>
+
+	<filme>
+		<titulo>The Matrix</titulo>
+		<director>Wachowski Brothers</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Aventura</genero>
+			<genero>Ficção Cientifica</genero>
+		</conteudo>
+		<escritor>Wachowski Brothers</escritor>
+		<texto>Um hackeador de computadores aprende de rebeldes misteriosos sobre a verdadeira natureza da sua realidade e o seu papel na guerra contra os seus controladores.</texto>
+		<elenco>
+			<actor personagem="Neo">Keanu Reeves</actor>
+			<actor personagem="Morpheus">Laurence Fishburne</actor>
+			<actor personagem="Trinity">Carrie-Anne Moss</actor>
+			<actor personagem="Agent Smith">Hugo Weaving</actor>
+			<actor personagem="Oracle">Gloria Foster</actor>
+			<actor personagem="Cypher">Joe Pantoliano</actor>
+			<actor personagem="Tank">Marcus Chong</actor>
+			<actor personagem="Apoc">Julian Arahanga</actor>
+			<actor personagem="Mouse">Matt Doran</actor>
+		</elenco>
+		<musica>Don Davis</musica>
+		<ano>1999</ano>
+		<capa imagem="capa06.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0133093/" paginafilme="http://www.warnerbros.com/landing/" />
+		<video youtube="m8e-FF8MsqU" />
+		<comentario utilizador="MinorityReporter" texto="To all the people who doubt the profound nature of The Matrix I can only give one advice: Free your mind and watch the film again. You won't regret it. If I had to choose a favorite all time film my choice would probably fall on either The Matrix (obviously I don't expect people to agree but if they do thats great) or The Lord of the Rings: The Return of the King and I recommend it to all fans of sci-fi and people who like philosophy."/>
+	</filme>
+
+	<filme>
+		<titulo>Se7en</titulo>
+		<director>David Fincher</director>
+		<conteudo>
+			<genero>Crime</genero>
+			<genero>Drama</genero>
+			<genero>Misterio</genero>
+		</conteudo>
+		<escritor>Andrew Kevin Walker</escritor>
+		<texto>Dois detectives, um principiante e um veterano, procuram um assassino em serie que usa os sete pecados mortais como o seu modo de operação.</texto>
+		<elenco>
+			<actor personagem="Detective David Mills">Brad Pitt</actor>
+			<actor personagem="Detective Lt. William Somerset">Morgan Freeman</actor>
+			<actor personagem="Tracy Mills">Gwyneth Paltrow</actor>
+			<actor personagem="Police Captain">R. Lee Ermey</actor>
+			<actor personagem="Dead Man">Andrew Kevin Walker</actor>
+			<actor personagem="Detective Taylor">Daniel Zacapa</actor>
+			<actor personagem="Officer Davis">John Cassini</actor>
+			<actor personagem="Gluttony Victim">Bob Mack</actor>
+			<actor personagem="Dr. O'Neill">Peter Crombie</actor>
+		</elenco>
+		<musica>Howard Shore</musica>
+		<ano>1995</ano>
+		<capa imagem="capa07.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0114369/" paginafilme="http://www.newline.com/properties/seven.html" />
+		<video youtube="omk-3z1a5xc" />
+		<comentario utilizador="Philip Tsatsas" texto="Gothic, shocking, suspenseful, disturbing and clever, `Seven' marked a new beginning for director David Fincher's career. This dark tale of murder and crime revolves around two detectives in present New York city played by two brilliant actors `Brad Pitt' and `Morgan Freeman' who are paired together to solve a puzzle of murder that is at the hands of a man who kills regarding to the seven deadly sins. Both actors displayed striking performances that are so sharp and realistic sometimes you have to remind yourself that's its all acting."/>
+	</filme>
+
+	<filme>
+		<titulo>Terminator 2: Judgment Day</titulo>
+		<director>James Cameron</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Ficção Cientifica</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>William Wisher Jr.</escritor>
+		<texto>O ciborgue que uma vez tentou matar Sarah Connor tem agora de proteger o seu filho adolescente, John Connor, de um exterminador ainda mais poderoso e avançado.</texto>
+		<elenco>
+			<actor personagem="The Terminator">Arnold Schwarzenegger</actor>
+			<actor personagem="Sarah Connor">Linda Hamilton</actor>
+			<actor personagem="John Connor">Edward Furlong</actor>
+			<actor personagem="T-1000">Robert Patrick</actor>
+			<actor personagem="Dr. Silberman">Earl Boen</actor>
+			<actor personagem="Miles Dyson">Joe Morton</actor>
+			<actor personagem="Tarissa Dyson">S. Epatha Merkerson</actor>
+			<actor personagem="Enrique Salceda">Castulo Guerra</actor>
+			<actor personagem="Tim">Danny Cooksey</actor>
+		</elenco>
+		<musica>Brad Fiedel</musica>
+		<ano>1991</ano>
+		<capa imagem="capa08.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0103064/" paginafilme="http://www.lionsgate.com/t2/" />
+		<video youtube="7QXDPzx71jQ" />
+		<comentario utilizador="jamesqt" texto="This superb sequel surpasses the excellent original in every department and quite simply you won't see a better action film. Set 15 years after the original Arnie may return as the good Terminator trying to protect John Connor but he's a redundant piece of scrap metal compared to the T-1000."/>
+	</filme>
+
+	<filme>
+		<titulo>Alien</titulo>
+		<director>Ridley Scott</director>
+		<conteudo>
+			<genero>Horror</genero>
+			<genero>Ficção Cientifica</genero>
+		</conteudo>
+		<escritor>Dan O'Bannon</escritor>
+		<texto>Uma nave mineira, que investiga um suspeito sinal de ajuda, aterra num planeta distante. A tripulação descobre criaturas estranhas e decide investigar.</texto>
+		<elenco>
+			<actor personagem="Dallas">Tom Skerritt</actor>
+			<actor personagem="Ripley">Sigourney Weaver</actor>
+			<actor personagem="Lambert">Veronica Cartwright</actor>
+			<actor personagem="Brett">Harry Dean Stanton</actor>
+			<actor personagem="Kane">John Hurt</actor>
+			<actor personagem="Ash">Ian Holm</actor>
+			<actor personagem="Parker">Yaphet Kotto</actor>
+			<actor personagem="Alien">Bolaji Badejo</actor>
+			<actor personagem="Mother (voz)">Helen Horton</actor>
+		</elenco>
+		<musica>Jerry Goldsmith</musica>
+		<ano>1979</ano>
+		<capa imagem="capa09.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0078748/" paginafilme="http://www.avpoe.org/amr/" />
+		<video youtube="rf99ouvFBJw" />
+		<comentario utilizador="bob the moo" texto="It's amazing that this is over 20 years old - apart from the actors looking so young, the film doesn't feel dated at all. The sci-fi visions here are still bleak and futuristic as they were then - this is not the Star Trek vision of the future. The foreboding exists long before John Hurt spills his secret, Scott's direction is excellent throughout. Once the alien is 'born' the tension is cranked up and the characters dispatched one by one (a formula we know oh-so well now!)"/>
+	</filme>
+
+	<filme>
+		<titulo>Spirited Away</titulo>
+		<director>Hayao Miyazaki</director>
+		<conteudo>
+			<genero>Animação</genero>
+			<genero>Aventura</genero>
+			<genero>Familia</genero>
+		</conteudo>
+		<escritor>Hayao Miyazaki</escritor>
+		<texto>No meio da deslocação da sua familia para os suburbios, uma rapariga de 10 anos e poucos amigos entra num mundo governado por deuses, bruxas e monstros onde os humanos são transformados em animais.</texto>
+		<elenco>
+			<actor personagem="Chihiro (voz)">Daveigh Chase</actor>
+			<actor personagem="Yubaba / Zeniba (voz)">Suzanne Pleshette</actor>
+			<actor personagem="Haku (voz)">Jason Marsden</actor>
+			<actor personagem="Lin (voz)">Susan Egan</actor>
+			<actor personagem="Kamajii (voz)">David Ogden Stiers</actor>
+			<actor personagem="Mãe de Chihiro (voz)">Lauren Holly</actor>
+			<actor personagem="Pai de Chihiro (voz)">Michael Chiklis</actor>
+			<actor personagem="Assistente de Gerencia (voz)">John Ratzenberger</actor>
+			<actor personagem="Bôh (voz)">Tara Strong</actor>
+		</elenco>
+		<musica>Joe Hisaishi</musica>
+		<ano>2001</ano>
+		<capa imagem="capa10.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0245429/" paginafilme="http://disney.go.com/disneyvideos/animatedfilms/miyazaki/more_miyazaki.html" />
+		<video youtube="_jGXcSBcvQQ" />
+		<comentario utilizador="sailvane-1" texto="If you didn't get it watch it again. This is not a piece to just entertain, the creator has put his own feeling and I believe life experience and the fear always buried in children's mind into it. It is a comely tale that express the creator's thoughts in some way, whilst shining as a attractive animation piece with so many details that you might have ignore if you were careless. It is a rich story and I can see the efforts creators put into it in many spots and frames."/>
+	</filme>
+
+	<filme>
+		<titulo>La vita è bella</titulo>
+		<director>Roberto Benigni</director>
+		<conteudo>
+			<genero>Drama</genero>
+			<genero>Romance</genero>
+			<genero>Guerra</genero>
+		</conteudo>
+		<escritor>Vincenzo Cerami</escritor>
+		<texto>Um homem judeu tem um romance maravilhoso com a ajuda do seu humor mas tem de usar essa mesma qualidade para proteger o seu filho num campo de morte nazi.</texto>
+		<elenco>
+			<actor personagem="Guido Orefice">Roberto Benigni</actor>
+			<actor personagem="Dora">Nicoletta Braschi</actor>
+			<actor personagem="Giosué Orefice">Giorgio Cantarini</actor>
+			<actor personagem="Eliseo Orefice">Giustino Durano</actor>
+			<actor personagem="Ferruccio Papini">Sergio Bini Bustric</actor>
+			<actor personagem="Mãe de Dora">Marisa Paredes</actor>
+			<actor personagem="Doctor Lessing">Horst Buchholz</actor>
+			<actor personagem="Guicciardini">Lidia Alfonsi</actor>
+			<actor personagem="School Principal">Giuliana Lojodice</actor>
+		</elenco>
+		<musica>Nicola Piovani</musica>
+		<ano>1997</ano>
+		<capa imagem="capa11.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0118799/" paginafilme="http://www.miramax.com/" />
+		<video youtube="64ZoO7oiN0s" />
+		<comentario utilizador="Chris Williams" texto="Please don't let the fact that it, to all but the Italians, is a foreign language film. The language itself adds a beauty of form to the film, much as it did in the case of Il Postino. This has to be a certainty for the Best Foreign Language Film Oscar, though something tells me that it will be overlooked for other awards as it is Italian and not a mainstream English language picture."/>
+	</filme>
+
+	<filme>
+		<titulo>Back to the Future</titulo>
+		<director>Robert Zemeckis</director>
+		<conteudo>
+			<genero>Aventura</genero>
+			<genero>Familia</genero>
+			<genero>Ficção Cientifica</genero>
+		</conteudo>
+		<escritor>Bob Gale</escritor>
+		<texto>Em 1985, o Doutor Brown inventa a viagem pelo tempo. Em 1955, Marty McFly acidentalmente interrompe os seus pais de se encontrarem, pondo a sua propria existencia em risco.</texto>
+		<elenco>
+			<actor personagem="Marty McFly">Michael J. Fox</actor>
+			<actor personagem="Dr. Emmett Brown">Christopher Lloyd</actor>
+			<actor personagem="Lorraine Baines">Lea Thompson</actor>
+			<actor personagem="George McFly">Crispin Glover</actor>
+			<actor personagem="Biff Tannen">Thomas F. Wilson</actor>
+			<actor personagem="Jennifer Parker">Claudia Wells</actor>
+			<actor personagem="Dave McFly">Marc McClure</actor>
+			<actor personagem="Linda McFly">Wendie Jo Sperber</actor>
+			<actor personagem="Sam Baines">George DiCenzo</actor>
+		</elenco>
+		<musica>Alan Silvestri</musica>
+		<ano>1985</ano>
+		<capa imagem="capa12.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0088763/" paginafilme="http://www.bttfmovie.com/" />
+		<video youtube="7i89wUv25QU" />
+		<comentario utilizador="mm-39" texto="The director and screen writer mixes science fiction, humor, and action perfectly. A big component of the script is time line theory which drives the story. Marty has many problems to fix, and finds out more than anyone wants to know about their parents. Michael J Fox and Christopher Loyd were excellently casted. Marty and Doc what a chemistry."/>
+	</filme>
+
+	<filme>
+		<titulo>Braveheart</titulo>
+		<director>Mel Gibson</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Biografia</genero>
+			<genero>Drama</genero>
+		</conteudo>
+		<escritor>Randall Wallace</escritor>
+		<texto>William Wallace, um plebeu, une os escoceses do decimo terceiro seculo na batalha destes para destronar o governo Inglês.</texto>
+		<elenco>
+			<actor personagem="Young William Wallace">James Robinson </actor>
+			<actor personagem="Malcolm Wallace">Sean Lawlor </actor>
+			<actor personagem="John Wallace">Sandy Nelson </actor>
+			<actor personagem="Campbell">James Cosmo </actor>
+			<actor personagem="MacClannough">Sean McGinley </actor>
+			<actor personagem="Elder Stewart">Alan Tall </actor>
+			<actor personagem="Young Hamish">Andrew Weir </actor>
+			<actor personagem="Mother MacClannough">Gerda Stevenson </actor>
+			<actor personagem="Priest No. 1">Ralph Riach </actor>
+		</elenco>
+		<musica>James Horner</musica>
+		<ano>1995</ano>
+		<capa imagem="capa13.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0112573/" paginafilme="http://www.scotlandthemovie.com/movies/fbraveheart.html" />
+		<video youtube="vbnGDeq40hI" />
+		<comentario utilizador="Hanbing Feng" texto="Beside proving himself as a brilliant director, Mel Gibson more importantly gave life to a historical hero whose superb gallantry, vivid character and magnificent spirit shall never be history. Along with the unforgettable 'Alba gu bragh!' and the unprecedentedly heart-stopping 'Freeeeedom', Braveheart unquestionably is one of the greatest movies ever made."/>
+	</filme>
+
+	<filme>
+		<titulo>Princess Mononoke</titulo>
+		<director>Hayao Miyazaki</director>
+		<conteudo>
+			<genero>Animação</genero>
+			<genero>Aventura</genero>
+			<genero>Fantasia</genero>
+		</conteudo>
+		<escritor>Hayao Miyazaki</escritor>
+		<texto>Numa jornada para encontrar a cura para uma maldição "Tatarigami", Ashitaka encontra-se no meio de uma guerra entre os deuses da floresta e Tatara, uma colonia de mineiros. Na sua missão, ele também se encontra com San, a Princesa Mononoke.</texto>
+		<elenco>
+			<actor personagem="Ashitaka (voz)">Yôji Matsuda</actor>
+			<actor personagem="San (voz)">Yuriko Ishida</actor>
+			<actor personagem="Eboshi-gozen (voz)">Yûko Tanaka</actor>
+			<actor personagem="Jiko-bô (voz)">Kaoru Kobayashi</actor>
+			<actor personagem="Kouroku (voz)">Masahiko Nishimura</actor>
+			<actor personagem="Gonza (voz)">Tsunehiko Kamijô</actor>
+			<actor personagem="Toki (voz)">Sumi Shimamoto</actor>
+			<actor personagem="Yama-inu (voz)">Tetsu Watanabe</actor>
+			<actor personagem="Tatari-gami (voz)">Mitsuru Satô</actor>
+		</elenco>
+		<musica>Joe Hisaishi</musica>
+		<ano>1997</ano>
+		<capa imagem="capa14.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0119698/" paginafilme="http://disney.go.com/disneyvideos/animatedfilms/studioghibli/princesssynopsis.html" />
+		<video youtube="OpnLHazdNAo" />
+		<comentario utilizador="misty6767" texto="The first time I saw Princess Mononoke I was completely moved and surprised. Since it was a Studio Ghibli film dubbed by Disney I liked the fact that it wasn't a 'they all lived naively ever after' film. There were no complete 'good' or 'bad' guys."/>
+	</filme>
+
+	<filme>
+		<titulo>Sin City</titulo>
+		<director>Robert Rodriguez</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Crime</genero>
+			<genero>Drama</genero>
+		</conteudo>
+		<escritor>Frank Miller</escritor>
+		<texto>Um filme que explora a cidade sombria e miseravel, Basin City, e conta a estória de três pessoas diferentes, todas apanhadas em corrupção violenta.</texto>
+		<elenco>
+			<actor personagem="Nancy Callahan">Jessica Alba</actor>
+			<actor personagem="Miho">Devon Aoki</actor>
+			<actor personagem="Becky">Alexis Bledel</actor>
+			<actor personagem="Senator Roark">Powers Boothe</actor>
+			<actor personagem="Hearing Panel Person">Cara D. Briggs</actor>
+			<actor personagem="Liebowitz">Jude Ciccolella</actor>
+			<actor personagem="Motorcycle Cop">Jeffrey J. Dashnaw</actor>
+			<actor personagem="Gail">Rosario Dawson</actor>
+			<actor personagem="Corporal Rivera">Jesse De Luna</actor>
+		</elenco>
+		<musica>Nigel Godrich</musica>
+		<ano>2005</ano>
+		<capa imagem="capa15.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0401792/" paginafilme="http://video.movies.go.com/products/04940900.html" />
+		<video youtube="r0PDOQglpDQ" />
+		<comentario utilizador="SunDevil21" texto="I must admit that I know, or knew rather, very little about the story or history of Frank Miller and his series of comic book novels - and maybe that is why I enjoyed this movie so much. Although, this is still a different type of situation where one who was a big fan of the stories might be seriously critical of every little detail of the comic book turned movie. I don't believe anyone who considers themselves truly knowledgeable about Miller's work can say that this was not represented well on the big screen. I'm now intrigued to go back and check out some of his work."/>
+	</filme>
+
+	<filme>
+		<titulo>The Sixth Sense</titulo>
+		<director>M. Night Shyamalan</director>
+		<conteudo>
+			<genero>Drama</genero>
+			<genero>Misterio</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>M. Night Shyamalan</escritor>
+		<texto>Um rapaz que comunica com espiritos que não sabem que estão mortos procura ajuda de um destroçado psicologo de crianças.</texto>
+		<elenco>
+			<actor personagem="Dr. Malcolm Crowe">Bruce Willis</actor>
+			<actor personagem="Cole Sear">Haley Joel Osment</actor>
+			<actor personagem="Lynn Sear">Toni Collette</actor>
+			<actor personagem="Anna Crowe">Olivia Williams</actor>
+			<actor personagem="Tommy Tammisimo">Trevor Morgan</actor>
+			<actor personagem="Vincent Grey">Donnie Wahlberg</actor>
+			<actor personagem="Darren">Peter Anthony Tambakis</actor>
+			<actor personagem="Bobby">Jeffrey Zubernis</actor>
+			<actor personagem="Stanley Cunningham">Bruce Norris</actor>
+		</elenco>
+		<musica>James Newton Howard</musica>
+		<ano>1999</ano>
+		<capa imagem="capa16.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0167404/" paginafilme="http://video.movies.go.com/thesixthsense/home.html" />
+		<video youtube="VG9AGf66tXM" />
+		<comentario utilizador="Steve Steckel" texto="What makes this film so wonderful to watch is not simply the acting, or the terror it instills, or even the plot itself. It is the way in which the writer/director M. Night Shyamalan takes his vision from the page, and carefully crafts a tale that completely absorbs the viewer. As a result, we are treated to a wealth of emotion: fear, sadness, joy, confusion, and humor, each one a compliment to the other."/>
+	</filme>
+
+	<filme>
+		<titulo>Kill Bill: Vol. 1</titulo>
+		<director>Quentin Tarantino</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Crime</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>Quentin Tarantino</escritor>
+		<texto>A Noiva acorda depois de um longo coma. O bebé que ela carregava antes de entrar em coma desapareceu. A unica coisa na mente dela é ter vingança na equipa de assassinos que a traiu - uma equipa que ela uma vez fazia parte.</texto>
+		<elenco>
+			<actor personagem="The Bride">Uma Thurman</actor>
+			<actor personagem="O-Ren Ishii">Lucy Liu</actor>
+			<actor personagem="Vernita Green">Vivica A. Fox</actor>
+			<actor personagem="Elle Driver">Daryl Hannah</actor>
+			<actor personagem="Bill">David Carradine</actor>
+			<actor personagem="Budd">Michael Madsen</actor>
+			<actor personagem="Sofie Fatale">Julie Dreyfus</actor>
+			<actor personagem="Gogo Yubari">Chiaki Kuriyama</actor>
+			<actor personagem="Hattori Hanzo">Sonny Chiba</actor>
+		</elenco>
+		<musica>RZA</musica>
+		<ano>2003</ano>
+		<capa imagem="capa17.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0266697/" paginafilme="http://trailers.apple.com/trailers/miramax/kill_bill/volume_II/trailer/" />
+		<video youtube="aT8QZtj1n28" />
+		<comentario utilizador="janyeap" texto="Sure it's outlandishly violent and bloody. Can anyone expect Tarantino's movie not to be a true mind-blowing, adrenaline-pumping shocker? Of course not! Gritty and slick, his first installment of KB rocks with moody western imagery, the '60s and '70s-era of Hong Kong martial arts-action, the influences of the ritualistic samurai swordsmanship, and Japanese anime. Like in all his films, Tarantino never fails to merge dark humor with terror. It's impossible not to smile over the Shaw Bros.' iconic introduction ploy and the De Palma-esque split screens. Observe the `Carrie' blank-starry eyed image settled on The Bride's gory face as she's introduced to the audience. Perhaps, Uma Thurman in her yellow suit is a salute to the yellow-suited Bruce Lee in his last film, The Game of Death. Or is The Bride 'Just another little Western girl playing at being a samurai' - as O-Ren Ishii blatantly puts it?"/>
+	</filme>
+
+	<filme>
+		<titulo>Kick-Ass</titulo>
+		<director>Matthew Vaughn</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Aventura</genero>
+			<genero>Comedia</genero>
+		</conteudo>
+		<escritor>Jane Goldman</escritor>
+		<texto>Dave Lizewski é um estudante pouco conhecido do liceu e um fã de banda desenhada que um dia decide tornar-se um super heroi, mesmo não tenho poderes, treino ou razão significante para o ser.</texto>
+		<elenco>
+			<actor personagem="Dave Lizewski / Kick-Ass">Aaron Johnson</actor>
+			<actor personagem="Mr. Lizewski">Garrett M. Brown</actor>
+			<actor personagem="Marty">Clark Duke</actor>
+			<actor personagem="Todd">Evan Peters</actor>
+			<actor personagem="Mrs. Zane">Deborah Twiss</actor>
+			<actor personagem="Katie Deauxma">Lyndsy Fonseca</actor>
+			<actor personagem="Erika Cho">Sophie Wu</actor>
+			<actor personagem="Mrs. Lizewski">Elizabeth McGovern</actor>
+			<actor personagem="Chris D'Amico / Red Mist">Christopher Mintz-Plasse</actor>
+		</elenco>
+		<musica>Marius De Vries</musica>
+		<ano>2010</ano>
+		<capa imagem="capa18.jpg" />
+		<web imdb="http://www.imdb.com/title/tt1250777/" paginafilme="http://www.kickass-themovie.com/" />
+		<video youtube="O5mxBaXHcFw" />
+		<comentario utilizador="pgtmatrix" texto="I honestly couldn't recommend this movie more, and it has become one of my new personal favorites. Kick-Ass is a film about finding your identity and daring to do something no one else will. Yet it's also an intricate tale of revenge, which is masterfully crafted to be one of the most entertaining pieces of fiction I have ever had the pleasure of viewing. "/>
+	</filme>
+
+	<filme>
+		<titulo>Paranormal Activity</titulo>
+		<director>Oren Peli</director>
+		<conteudo>
+			<genero>Horror</genero>
+			<genero>Misterio</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>Oren Peli</escritor>
+		<texto>Depois de se mudarem para uma casa nos suburbios, um casal torna-se cada vez mais perturbado por uma presença demoniaca nocturna.</texto>
+		<elenco>
+			<actor personagem="Katie">Katie Featherston</actor>
+			<actor personagem="Micah">Micah Sloat</actor>
+			<actor personagem="Psychic">Mark Fredrichs</actor>
+			<actor personagem="Amber">Amber Armstrong</actor>
+			<actor personagem="Diane - Girl on the Internet">Ashley Palmer</actor>
+			<actor personagem="Lt. Randy Hudson">Randy McDowell</actor>
+			<actor personagem="Richard">James Piper</actor>
+		</elenco>
+		<musica>Sem Musica</musica>
+		<ano>2007</ano>
+		<capa imagem="capa19.jpg" />
+		<web imdb="http://www.imdb.com/title/tt1179904/" paginafilme="http://www.paranormal-activity-movie.co.uk/" />
+		<video youtube="F_UxLEqd074" />
+		<comentario utilizador="otis von zipper" texto="The storytelling here is simple but also inspired. Young couple Katie and Micah plan to film their home at night while sleeping in hopes of capturing evidence of a ghost that seems to haunting them, or more precisely Katie, since this is not the first time she has experienced these type of visitations. We watch the footage of the young couple sleeping and gradually things do start to happen. Katie and Micah also film themselves discussing the situation, a visit from a spiritualist, and a few other random moments. Doesn't sound like much, right? Or that it could possibly be the slightest bit scary. Well, Oren Peli's little indie film is everything a scary movie should be. In other words, it is indeed very scary."/>
+	</filme>
+
+	<filme>
+		<titulo>Ghost Rider</titulo>
+		<director>Mark Steven Johnson</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Fantasia</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>Mark Steven Johnson</escritor>
+		<texto>Baseado na personagem da Marvel, o motociclista duplo Johnny Blaze desiste da sua alma para se tornar um vigilante infernal, para lutar contra o sedento de poder Blackheart, o filho do diabo.</texto>
+		<elenco>
+			<actor personagem="Young Johnny Blaze">Matt Long</actor>
+			<actor personagem="Young Roxanne Simpson">Raquel Alessi</actor>
+			<actor personagem="Barton Blaze">Brett Cullen</actor>
+			<actor personagem="Mephistopheles">Peter Fonda</actor>
+			<actor personagem="Johnny Blaze / Ghost Rider">Nicolas Cage</actor>
+			<actor personagem="Mack">Donal Logue</actor>
+			<actor personagem="Team Blaze">Tony Ghosthawk</actor>
+			<actor personagem="Team Blaze">Hugh Sexton</actor>
+			<actor personagem="Team Blaze">Marcus Jones</actor>
+		</elenco>
+		<musica>Christopher Young</musica>
+		<ano>2007</ano>
+		<capa imagem="capa20.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0259324/" paginafilme="http://www.sonypictures.com/homevideo/ghostrider/" />
+		<video youtube="u_12f8jBpBU" />
+		<comentario utilizador="w00f" texto="There won't be any Academy Awards for 'Ghost Rider', and deservedly so. Great cinema it ain't. It is fun stuff, though, and very much in the spirit of the Marvel comic book of the same name. Nicolas Cage works well in the role; his dead-pan humor is well suited to the role of motorcycle stuntman Johnny Blaze, and the scene in which he attempts to explain himself to his long-lost girlfriend is classic stuff, full of awkward pauses and an eyebrow put to good use."/>
+	</filme>
+	
+	<filme>
+		<titulo>Summer Wars</titulo>
+		<director>Mamoru Hosoda</director>
+		<conteudo>
+			<genero>Animação</genero>
+			<genero>Aventura</genero>
+			<genero>Comédia</genero>
+		</conteudo>
+		<escritor>Satoko Okudera</escritor>
+		<texto>Um estudante tenta arranjar um problema que ele acidentalmente causou no OZ, um mundo digital, enquanto finge ser o namorado da sua amiga no nonagesimo aniversario da avó desta.</texto>
+		<elenco>
+			<actor personagem="Kenji Koiso (voz)">Ryûnosuke Kamiki</actor>
+			<actor personagem="Natsuki Shinohara (voz)">Nanami Sakuraba</actor>
+			<actor personagem="Kazuma Ikezawa (voz)">Mitsuki Tanimura</actor>
+			<actor personagem="Takashi Sakuma (voz)">Takahiro Yokokawa</actor>
+			<actor personagem="Mariko Jin'nôchi (voz)">Mieko Nobusawa</actor>
+			<actor personagem="Kazuo Shinohara (voz)">Mutsumi Sasaki</actor>
+			<actor personagem="Tasuke Jin'nôchi (voz)">Takashi Kobayashi</actor>
+			<actor personagem="Yorihiko Jin'nôchi (voz)">Yôji Tanaka</actor>
+			<actor personagem="Yukiko Shinohara (voz)">Kiyomi Tanigawa</actor>
+		</elenco>
+		<musica>Akihiko Matsumoto</musica>
+		<ano>2009</ano>
+		<capa imagem="capa21.jpg" />
+		<web imdb="http://www.imdb.com/title/tt1474276/" paginafilme="http://encorefilms.com/summerwars/" />
+		<video youtube="UbmdYasVDDg" />
+		<comentario utilizador="robert heinrich" texto="The story unfolds on parallel levels (the action part about saving the world, the part about the values of a family, the dangers of relying too much on technology, a little bit of teenage love story, ...) - while each level is too obvious and shallow on its own, they blend in together nicely. Reminds me of a virtual chop suey - nothing special, yet very tasty."/>
+	</filme>
+	
+	<filme>
+		<titulo>Merlin</titulo>
+		<director>Steve Barron</director>
+		<conteudo>
+			<genero>Aventura</genero>
+			<genero>Drama</genero>
+			<genero>Fantasia</genero>
+		</conteudo>
+		<escritor>David Stevens</escritor>
+		<texto>O lendário feiticeiro conta a sua historia da sua guerra contra a Rainha Mab do Sidhe e a sua criação de Camelot.</texto>
+		<elenco>
+			<actor personagem="Lady of the Lake">Miranda Richardson</actor>
+			<actor personagem="Merlin">Sam Neill</actor>
+			<actor personagem="Morgan Le Fey">Helena Bonham Carter</actor>
+			<actor personagem="Rei Constant">John Gielgud</actor>
+			<actor personagem="Rei Vortigern">Rutger Hauer</actor>
+			<actor personagem="Rei da Montanha">James Earl Jones</actor>
+			<actor personagem="Nimue">Isabella Rossellini</actor>
+			<actor personagem="Frik">Martin Short</actor>
+			<actor personagem="Guinevere">Lena Headey</actor>
+		</elenco>
+		<musica>Trevor Jones</musica>
+		<ano>1998</ano>
+		<capa imagem="capa22.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0130414/" paginafilme="http://www.imdb.com/title/tt0130414/officialsites" />
+		<video youtube="FW7lYb9gRf4" />
+		<comentario utilizador="Bigmoose" texto="This movie rules! I don't know how many times I've seen it, but it has to be over 30. I think all of us fans should get together and start a cult like Rocky Horror, for this film! I love the graphics for this movie, and Miranda Richardson, who I normally try to avoid when it comes to movies, was absolutely wonderful, and Martin Short was cool. Anyone who is in to fantasy movies should see it."/>
+	</filme>
+	
+	<filme>
+		<titulo>A Ilha</titulo>
+		<director>Michael Bay</director>
+		<conteudo>
+			<genero>Acção</genero>
+			<genero>Ficção cientifica</genero>
+			<genero>Thriller</genero>
+		</conteudo>
+		<escritor>Caspian Tredwell-Owen</escritor>
+		<texto>Um homem tenta escapar depois de descobrir que ele é um "ser de colheita", e é mantido como fonte de partes substituiveis, em conjunto com outros, numa contrucção Utopiana.</texto>
+		<elenco>
+			<actor personagem="Tom Lincoln">Ewan McGregor</actor>
+			<actor personagem="Sarah Jordan">Scarlett Johansson</actor>
+			<actor personagem="Albert Laurent">Djimon Hounsou</actor>
+			<actor personagem="Dr. Bernard Merrick">Sean Bean</actor>
+			<actor personagem="James McCord">Steve Buscemi</actor>
+			<actor personagem="Jamal Starkweather">Michael Clarke Duncan</actor>
+		</elenco>
+		<musica>Steve Jablonsky</musica>
+		<ano>2005</ano>
+		<capa imagem="capa23.jpg" />
+		<web imdb="http://www.imdb.com/title/tt0399201/" paginafilme="http://www.theisland-themovie.com/" />
+		<video youtube="zIfVwTGAJBM" />
+		<comentario utilizador="Claudio Carvalho" texto="'The Island' is an original, intriguing and scary view of science, ethic and society in a near future. Using elements of 'Logan's Run', 'Matrix', 'Gattaca' and 'The Thirteenth Floor', among other sci-fi movies, and non-stop action, it is a surprisingly great film. I liked very much the amoral behavior of Dr. Merrick (Sean Bean), with a total lack of ethic, and the possibility of replacement parts raised in the story. Scarlett Johansson and Ewan McGregor shows a good chemistry, and watching this sci-fi / action movie is worthwhile, even to think how cloning process shall be discussed by the society and controlled through well-studied laws."/>
+	</filme>
+</filmes>
