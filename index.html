@@ -6,38 +6,36 @@
 	<style type="text/css">
 			body{text-align:center}
 			h3{font-size:20px; color:#FFB90F; font-family:verdana;}
-			h4{font-size:16px; color:#006400; font-family:verdana;}
-			h5{font-size:12px; color:#8B1A1A; font-family:times new roman;}
-			p{font-size:12px; font-family:times new roman;}
-			.titulogeral{width:814px; text-align:center; background-color:#BEBEBE; color:#FFB90F; }
-			.titulogeral :hover{background-color:#000000;}
-			#tabela{height:560px; display:none; margin-top:-24px; margin-left:-2px}
-			#ctrls, #ecran{width:300px; height:10px; background-color:#000000; text-align:center}
-			#f1{margin:0px;}
-			#texto{width:500px; vertical-align:top; font-size:12px; background-color:#BEBEBE; padding:5px;}
-			#video{width:500px; vertical-align:top; font-size:12px; background-color:#BEBEBE; padding:5px; display:none;}
-			#aba{font-size:12px; background-color:#BEBEBE; color:#FFB90F; }
-			#aba:hover{background-color:#000000;}
 			a{font-size:12px; color:#00008B;}
 			a:hover{font-size:12px; background-color:#00008B; color:#FFFFFF}
+			#titulo{text-align:center; background-color:#000000; color:#FFB90F; padding:5px;}
+			#op{display:none;}
+			#sec{width:300px; background-color:#BEBEBE; padding:5px;}
+			#aba{font-size:12px; background-color:#BEBEBE; color:#FFB90F; padding:5px;}
+			#aba:hover{background-color:#000000; cursor:pointer;}
 	</style>
 	<script>
 		$(document).ready(function(){
-			$(".titulogeral").click(function(){
-				$("#tabela").fadeToggle("slow");
-				$("#video").slideUp("slow");
+			$("#aba").click(function(){
+				$("#op").slideToggle("slow");
 			});
 		});
 	</script>
 </head>
 <body>
-	<div class="titulogeral"><h1>Repositório de Filmes</h1></div>
+	<h1>Portfólio</h1>
 	<div id="tabela"><table><tr>
-		<td><a href="repositoriofilmes/filmes_XMLDOM.htm">Página XMLDOM</a></td>
-		<td><a href="repositoriofilmes/filmes_XSLAX.htm">Página XSL</a></td>
-		<td><a href="repositoriofilmes/filmes.xml">Documento XML</a></td>
-	</tr><table></div>
-	<script type="text/javascript">
-	</script>
+		<td id="titulo"><h3>Repositório de Filmes</h3></td>
+		<td id="op"><div>
+		<table><tr>
+		<td id="sec"><a href="repositoriofilmes/filmes_XMLDOM.htm">Página XMLDOM</a></td>
+		<td id="sec"><a href="repositoriofilmes/filmes_XSLAX.htm">Página XSL</a></td>
+		<td id="sec"><a href="repositoriofilmes/filmes.xml">Documento XML</a></td>
+		</tr></table>
+		</div>
+		</td>
+		<td id="aba">A<br />B<br />R<br />I<br />R</td>
+	</tr></table></div>
+	
 </body>
 </html>
